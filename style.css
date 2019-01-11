@@ -8,8 +8,8 @@ html{
 
 /*This adds space to the top to accomodate the fixed navigation bar*/
 body{
-  padding-top:50px;
-  padding-bottom:400px;
+  padding-top:25px;
+  padding-bottom:40px;
 }
 
 /*I'm using a Google Font for all of my header objects*/
@@ -75,3 +75,4 @@ iframe{
 .showcase{
   background-color:#000;
 }
+.logo{height:100%;}
